@@ -35,7 +35,7 @@ I loaded the Northwind database into PostgreSQL and used it to answer 12 busines
 
 ## Charts
 
-![Business Analysis Charts](screenshots/sql_analysis_charts.png)
+![Business Analysis Charts](screenshots/sql_analysis_chart.png)
 
 ---
 
